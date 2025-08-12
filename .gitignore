@@ -1,0 +1,55 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables file
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Angular build outputs
+dist/
+out-tsc/
+
+# IDEs & editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Misc
+*.tgz
+*.zip
+*.tar.gz
+
+# Optional npm cache
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional coverage directory
+coverage/
+
+# Optional local files
+local/
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Angular environment files (optional if you don't want to commit them)
+src/environments/environment*.ts
